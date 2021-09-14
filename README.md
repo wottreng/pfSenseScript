@@ -10,8 +10,8 @@ How to use:
 ```
 staticIPofDevice = "1.2.3.4" // static ip of device you want to check
 pfsenseRouterIP = "1.2.3.1" // static ip of pfsense server
-userName = "" // pfsense login username
-passWord = "" // pfsense login password
+userName = "yourUserName" // pfsense login username
+passWord = "yourPassWord" // pfsense login password
 ```
 * run script
 
